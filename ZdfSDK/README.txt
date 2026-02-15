@@ -1,0 +1,1 @@
+zdf and libapi.so are linux and zdf.exe and api.dll are windows
