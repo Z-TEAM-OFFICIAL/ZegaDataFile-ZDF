@@ -1,5 +1,5 @@
-#ZegaDataFile ZDF
-**High-Performance Data Infrastructure by Z-MegaHQ**
+#**ZegaDataFile ZDF**
+**High-Performance Data Infrastructure by ZEGA**
 
 The **ZEGA Data File (ZDF)** SDK is a professional-grade, cross-platform framework engineered for elite data processing and modification. By utilizing a private, **-Ofast** optimized x64 Assembly core, ZDF delivers speeds that surpass standard data formats while maintaining a microscopic SSD footprint.
 
